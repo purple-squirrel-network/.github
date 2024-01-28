@@ -43,6 +43,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ### Stay Connected
 
 - **[Discord](#)**
-- **[Official Website](https://x.com/squirrel_eth)**
+- **[Twitter(x)](https://x.com/squirrel_eth)**
 
 Join us in revolutionizing digital assets on the Solana blockchain with the Purple Squirrel Network. 🚀🌟
