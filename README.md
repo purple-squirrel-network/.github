@@ -8,3 +8,41 @@ This repository is structured to demonstrate the capabilities and potential appl
 
 ### Directory Structure
 
+/PurpleSquirrelDemoRepo
+|-- .github/workflows # GitHub actions and CI/CD workflows
+| |-- [workflow files] # Specific workflow files
+|
+|-- README.md # Comprehensive project documentation
+|-- index.html # Demonstration of web interface capabilities
+|-- package.json # Project metadata and dependency management
+
+### What's Inside?
+
+- **.github/workflows:** Contains GitHub Actions and CI/CD workflows for automation.
+- **README.md:** Detailed information about the project, its goals, and usage.
+- **index.html:** Demonstrates Purple Squirrel Network integration in web apps.
+- **package.json:** Manages project dependencies and includes project metadata.
+
+### Key Features
+
+- **Solana SPL Token Extensions:** Showcasing advanced token creation techniques.
+- **Programmable Compliance:** Implementation of token holding rules and constraints.
+- **Enhanced Privacy and Security:** Features like confidential transfers and delegate authority.
+
+### Getting Started
+
+1. Clone the repository to your local machine.
+2. Explore the `index.html` for a basic front-end representation.
+3. Review the `package.json` for project dependencies.
+4. Examine the `.github/workflows` for CI/CD insights.
+
+### Contribute
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+### Stay Connected
+
+- **[Discord](#)**
+- **[Official Website](https://x.com/squirrel_eth)**
+
+Join us in revolutionizing digital assets on the Solana blockchain with the Purple Squirrel Network. 🚀🌟
